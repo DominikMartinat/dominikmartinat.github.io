@@ -4,7 +4,7 @@
 
 layout: home
 ---
-Life has no meaning.
-Everybody dies.
-Yes, even you.
+Life has no meaning.<br/>
+Everybody dies.<br/>
+Yes, even you.<br/>
 So go do something fun now instead of wasting your time here.
