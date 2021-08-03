@@ -4,4 +4,7 @@
 
 layout: home
 ---
-There is nothing to see here. Move on.
+Life has no meaning.
+Everybody dies.
+Yes, even you.
+So go do something fun now instead of wasting your time here.
