@@ -21,7 +21,7 @@
 title: Testing place
 email: dominik.martinat@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Just place to learn stuff.
+ Just place to learn stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
